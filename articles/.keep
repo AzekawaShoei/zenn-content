@@ -1,0 +1,6 @@
+# 記事の作成
+$ npx zenn new:article
+
+# プレビューする
+$ npx zenn preview # プレビュー開始
+
